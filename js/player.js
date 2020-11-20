@@ -1,0 +1,1 @@
+function play(e,n,t){let l=setInterval(function(){window.APlayer&&(new APlayer({container:document.getElementById(e),theme:"#e96900",listFolded:n,audio:t}),clearInterval(l))},10)}

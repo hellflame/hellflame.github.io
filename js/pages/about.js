@@ -1,0 +1,1 @@
+function about(e){const t=document.getElementsByClassName("markdown-body"),n=parseInt(e)+15552e6;if(t.length&&(new Date).getTime()>=n){const e=document.createElement("a");e.href="/any-last",e.text="LastLegacy",t[0].appendChild(e)}}
