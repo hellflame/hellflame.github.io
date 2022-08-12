@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hellflame.github.io/"/>
-  <updated>2021-08-08T01:34:41.432Z</updated>
+  <updated>2022-08-12T13:25:44.209Z</updated>
   <id>https://hellflame.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Golang基于websocket的TCP开发框架-Webson</title>
+    <link href="https://hellflame.github.io/2022/07/08/webson/"/>
+    <id>https://hellflame.github.io/2022/07/08/webson/</id>
+    <published>2022-07-08T08:44:08.000Z</published>
+    <updated>2022-08-12T13:25:44.209Z</updated>
+    
+    <content type="html"><![CDATA[<p><code>webson</code> 的本意其实在于进行 golang 的 <code>事件驱动式</code> <code>websocket</code> 协议的实现，但为了让 <code>事件驱动</code> 变得更容易，使用了协议中留下来扩展的未使用预留位，这一点可能导致和其他 <code>websocket</code> 协议实现存在不兼容。但 <code>webson</code> 还是做到了在保留 <code>websocket</code> 完整协议的前提下进行扩展。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;code&gt;webson&lt;/code&gt; 的本意其实在于进行 golang 的 &lt;code&gt;事件驱动式&lt;/code&gt; &lt;code&gt;websocket&lt;/code&gt; 协议的实现，但为了让 &lt;code&gt;事件驱动&lt;/code&gt; 变得更容易，使用了协议中留下来扩展的未使用预留位，这一
+      
+    
+    </summary>
+    
+      <category term="basics" scheme="https://hellflame.github.io/categories/basics/"/>
+    
+    
+      <category term="golang" scheme="https://hellflame.github.io/tags/golang/"/>
+    
+  </entry>
   
   <entry>
     <title>外滩夜景</title>
@@ -417,29 +442,6 @@
     </summary>
     
       <category term="thoughts" scheme="https://hellflame.github.io/categories/thoughts/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>河南之旅</title>
-    <link href="https://hellflame.github.io/2020/03/30/trip-of-henan/"/>
-    <id>https://hellflame.github.io/2020/03/30/trip-of-henan/</id>
-    <published>2020-03-30T15:33:36.000Z</published>
-    <updated>2020-03-31T15:26:10.378Z</updated>
-    
-    <content type="html"><![CDATA[<p>本来应该是年前的一次出差记录，不过时间比较紧，被太多事情纠缠，到现在才想起来这些</p><p>前前后后大概有整整1个月的跨度，从第一次出差，到一个月后，跨年，赶在公司年会前结束出差，还是有大概百张照片筛选</p><p>嗯，算是到北方经历了一番～</p><p>嗯，再也不吃烩面了。。。</p><a id="more"></a><center>莫名的在早上5点就醒了，顺便看看星空</center><center><small>猎户座果然到处到能清楚的辨别出来，当然，是在原图上</small></center><p><img src="/images/trip-of-henan/DSC_3408.JPG" alt=""></p><center>第一次匆匆来郑州，匆匆离开，经过文化公园</center><p><img src="/images/trip-of-henan/DSC_3428.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3432.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3436.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3440.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3447.JPG" alt=""></p><center>元旦前夕，跨年前夜</center><center><small>被烩面搞垮的一晚</small></center><p><img src="/images/trip-of-henan/DSC_3455.JPG" alt=""></p><center>虽然气温很低，但人还是挺多的</center><p><img src="/images/trip-of-henan/DSC_3456.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3462.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3463.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3466.JPG" alt=""></p><center>被灯光照亮的粼粼柔波</center><p><img src="/images/trip-of-henan/DSC_3467.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3469.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3472.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3473.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3477.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3480.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3483.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3485.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3486.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3488.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3505.JPG" alt=""></p><center>隐约的光径，总是充满了神秘</center><p><img src="/images/trip-of-henan/DSC_3507.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3512.JPG" alt=""></p><center>清明上河园</center><center><small>元旦当天，开封</small></center><p><img src="/images/trip-of-henan/DSC_3521.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3522.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3524.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3525.JPG" alt=""></p><center>清澈的美感</center><p><img src="/images/trip-of-henan/DSC_3529.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3530.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3531.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3533.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3534.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3535.JPG" alt=""></p><center>emmm….皮影还是那么抽象</center><p><img src="/images/trip-of-henan/DSC_3539.JPG" alt=""></p><center>仿佛时光也在循环，延绵向前</center><p><img src="/images/trip-of-henan/DSC_3543.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3550.JPG" alt=""><br><img src="/images/trip-of-henan/DSC_3553.JPG" alt=""></p><center>这面墙，应该就是专门为了拍照立起来的吧</center><p><img src="/images/trip-of-henan/DSC_3554.JPG" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;本来应该是年前的一次出差记录，不过时间比较紧，被太多事情纠缠，到现在才想起来这些&lt;/p&gt;
-&lt;p&gt;前前后后大概有整整1个月的跨度，从第一次出差，到一个月后，跨年，赶在公司年会前结束出差，还是有大概百张照片筛选&lt;/p&gt;
-&lt;p&gt;嗯，算是到北方经历了一番～&lt;/p&gt;
-&lt;p&gt;嗯，再也不吃烩面了。。。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="scenery" scheme="https://hellflame.github.io/categories/scenery/"/>
     
     
   </entry>
