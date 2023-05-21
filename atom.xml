@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hellflame.github.io/"/>
-  <updated>2023-05-18T11:04:46.962Z</updated>
+  <updated>2023-05-20T15:17:31.792Z</updated>
   <id>https://hellflame.github.io/</id>
   
   <author>
@@ -17,15 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>everything-is-fractal</title>
+    <title>万物皆分形</title>
     <link href="https://hellflame.github.io/2023/05/18/everything-is-fractal/"/>
     <id>https://hellflame.github.io/2023/05/18/everything-is-fractal/</id>
     <published>2023-05-18T11:04:46.000Z</published>
-    <updated>2023-05-18T11:04:46.962Z</updated>
+    <updated>2023-05-20T15:17:31.792Z</updated>
     
     <summary type="html">
     
     </summary>
+    
+      <category term="thoughts" scheme="https://hellflame.github.io/categories/thoughts/"/>
     
     
   </entry>
@@ -35,9 +37,9 @@
     <link href="https://hellflame.github.io/2022/07/08/webson/"/>
     <id>https://hellflame.github.io/2022/07/08/webson/</id>
     <published>2022-07-08T08:44:08.000Z</published>
-    <updated>2022-08-12T13:25:44.209Z</updated>
+    <updated>2023-05-20T15:18:21.106Z</updated>
     
-    <content type="html"><![CDATA[<p><code>webson</code> 的本意其实在于进行 golang 的 <code>事件驱动式</code> <code>websocket</code> 协议的实现，但为了让 <code>事件驱动</code> 变得更容易，使用了协议中留下来扩展的未使用预留位，这一点可能导致和其他 <code>websocket</code> 协议实现存在不兼容。但 <code>webson</code> 还是做到了在保留 <code>websocket</code> 完整协议的前提下进行扩展。</p>]]></content>
+    <content type="html"><![CDATA[<p><code>webson</code> 的本意其实在于进行 golang 的 <code>事件驱动式</code> <code>websocket</code> 协议的实现，但为了让 <code>事件驱动</code> 变得更容易，使用了协议中留下来扩展的未使用预留位，这一点可能导致和其他 <code>websocket</code> 协议实现存在不兼容。但 <code>webson</code> 还是做到了在保留 <code>websocket</code> 完整协议的前提下进行扩展。</p><p>本质上我想要的其实是一个方便使用的 <code>TCP</code> 开发框架。</p>]]></content>
     
     <summary type="html">
     
